@@ -1,0 +1,35 @@
+Encode
+real	0m31,847s
+user	0m30,432s
+sys	0m1,373s
+
+real	0m31,698s
+user	0m30,315s
+sys	0m1,306s
+
+Maximum resident set size (kbytes): 10216
+
+
+Decode
+real	0m51,090s
+user	0m49,285s
+sys	0m1,721s
+User time (seconds): 50.52
+System time (seconds): 1.82
+
+
+Maximum resident set size (kbytes): 10304
+
+
+Sort 
+real	0m59,529s
+user	0m57,404s
+sys	0m1,669s
+
+real	0m57,476s
+user	0m55,712s
+sys	0m1,639s
+
+Maximum resident set size (kbytes): 11548
+
+

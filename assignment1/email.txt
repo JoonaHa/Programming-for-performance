@@ -1,0 +1,30 @@
+Dear PFP students,
+
+I hope you're all well.
+
+Attached is a slightly updated version of Assignment 1 (it's also on Moodle).
+
+The main changes are:
+1) A less-buggy statement of the proximity intersection task (it seems I was in a slightly schizophrenic mood when I wrote the first version). Thanks v much to TH for spotting the inconsistency.
+2) The first few numbers in the file F0, which I thought might help you check if you're code is doing the right thing.
+3) Some updated instructions for running code on the turso server, especially for regarding working space. Thanks to AU for alerting me to this.
+
+I also had a question about the format the 64-bit ints are in. In the program that I wrote to generate the files on my Mac, the integers were of type uint64_t (defined in the <cstdint> library:
+https://en.cppreference.com/w/cpp/header/cstdint
+and these were written to disk. You might like to use uint64_t as well in your code, but you certainly don't have to.
+
+Nearly all those people who were in the queue are now officially in the course. Some of you receiving this email still haven't been added to WebOodi, but rest assured you are in! Things are taking a bit longer to happen than usual at the moment --- admin is a bit chaotic with the disruptions caused by COVID-19.
+
+Finally (for now), as I said yesterday: we have our next lecture scheduled for Thursday, 2 April. I'm currently trying to work out what to do about that. Either I will record a lecture /or/ assign you some reading + videos to watch. Will keep you up to date. Anyway, in case you've been hiding under a rock for the last few days: uni is closed until mid April, so we will not be meeting face-to-face before then.
+
+Good luck, keep well,
+
+Simon
+
+-----------------------------------
+Simon J. Puglisi
+Associate Professor
+Academy of Finland Fellow
+Department of Computer Science
+University of Helsinki
+https://www.cs.helsinki.fi/u/puglisi/
